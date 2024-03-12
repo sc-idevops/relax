@@ -1,5 +1,5 @@
 title: Stefen's Relaxation Toolkit
 description: My guide to help myself and others relax
-remote_theme: pages-themes/leap-day@v0.2.0
+remote_theme: pages-themes/modernist@v0.2.0
 plugins:
 - jekyll-remote-theme 
