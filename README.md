@@ -22,6 +22,8 @@ In these trying times, it's helpful to have things to fall back on to help you c
 
 - [myNoise.net](http://mynoise.net/) is a website filled with many sound generators which can help soothe you and transport you to different places with hundreds of custom top quality soundscapes.
 
+- [Moodist](https://moodist.app/) a simple open source website where you can listen to relaxing sounds with minimal fuss!
+
 - Another favorite is [Liquid Mind](https://www.youtube.com/channel/UCgogqJdyUFxNWjdD69kyE5Q), an excellent series of albums of very slow relaxing music.
 
 - [Atmosphere](https://peakpocketstudios.com) is a free app with a solid selection of sounds you can mix and match to suit your tastes.
