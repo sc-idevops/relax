@@ -33,8 +33,8 @@ In these trying times, it's helpful to have things to fall back on to help you c
 ### Stories
 
 - [Pzziz](https://pzizz.com) is an excellent app of sleep stories, soft sounds and is set up for a full night’s sleep or if you just want to take a nap! See also their spinoff apps:
-   - [Doze](https://dozeapp.com/) A spinoff of Pzziz with a different UI.
-   - [Mesmerize](https://www.mesmerizeapp.com/) Another highly recommended app, it has many pre-sets so you can relax faster with less thinking. The visualizations are engaging and the hypnotism is very effective.
+  - [Doze](https://dozeapp.com/) A spinoff of Pzziz with a different UI.
+  - [Mesmerize](https://www.mesmerizeapp.com/) Another highly recommended app, it has many pre-sets so you can relax faster with less thinking. The visualizations are engaging and the hypnotism is very effective.
 
 - [Loona](https://loona.app) is an excellent app that has special interactive sleep stories where you color in a scene while the story unfolds! They also have regular bedtime stories and music to enjoy as well. Also available on [YouTube](https://www.youtube.com/channel/UCvOwxjPkjT8TdGrEP3IsxzA).
 
@@ -48,14 +48,20 @@ In these trying times, it's helpful to have things to fall back on to help you c
 
 ## Watch
 
-- Pluto.tv has several excellent relaxing channels.
-   - My favorite is [Naturescape](https://pluto.tv/live-tv/naturescape): (it is unfortunate it can be interrupted by ADs but the view is nice for being free)
-   - There are other channels if you just need something mindless on to have in the background making noise. You’ll also find [Bob Ross](https://pluto.tv/en/live-tv/the-bob-ross-channel) there too!
+### Pluto.tv has several excellent relaxing channels.
+- My favorite is [Naturescape](https://pluto.tv/live-tv/naturescape): (it is unfortunate it can be interrupted by ADs but the view is nice for being free)
+- There are other channels if you just need something mindless on to have in the background making noise. You’ll also find [Bob Ross](https://pluto.tv/en/live-tv/the-bob-ross-channel) there too!
 
-- Twitch.tv has several streams I find relaxing to watch.
-   - More often than not [Bob Ross](https://www.twitch.tv/bobross) is painting pictures with his almost ASMR like voice.
-   - Twitch also has [Cooking Shows](https://www.twitch.tv/hungry) running 24/7 which are surprisingly relaxing and 100% drama free.
-   - One of the more odd streams called [Nothing, Forever](https://www.twitch.tv/watchmeforever) is a seemingly AI generated sit-com in the style of Seinfeld which never seems to end...
+### Twitch.tv has several streams I find relaxing to watch.
+- More often than not [Bob Ross](https://www.twitch.tv/bobross) is painting pictures with his almost ASMR like voice.
+- Twitch also has [Cooking Shows](https://www.twitch.tv/hungry) running 24/7 which are surprisingly relaxing and 100% drama free.
+- One of the more odd streams called [Nothing, Forever](https://www.twitch.tv/watchmeforever) is a seemingly AI generated sit-com in the style of Seinfeld which never seems to end...
+
+### Youtube Channels:
+
+#### Restoration
+- [Odd Tinkering](https://www.youtube.com/@OddTinkering): Electronics restoration with no sponsors or commentary. Just the sounds of repairwork.
+- [MountainRugCleaning](https://www.youtube.com/@MountainRugCleaning): No commentary, just the sounds of carpets being scrubbed. Satisfying seeing something being cleaned.
 
 ## Do
 
