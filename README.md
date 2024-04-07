@@ -23,7 +23,8 @@ In these trying times, it's helpful to have things to fall back on to help you c
 - A Sound Bath is something soothing to listen to consisting of "singing bowls". [Example of a sound bath on Youtube](https://www.youtube.com/watch?v=-BlO514Iwvo&t=470s)
 
 ### ASMR
-
+- [PearFleur](https://www.youtube.com/@PearFleur)
+  - [Making Paint: BLUE IRIS](https://www.youtube.com/watch?v=aCKtkvFvXa8)
 
 ### Stories
 
@@ -64,6 +65,7 @@ In these trying times, it's helpful to have things to fall back on to help you c
 ## Do
 
 - Breathe. Really, just pay attention to your breath. It’s the most basic of tools you have anywhere and anytime to help control anxiety. You’ll find this a recurring theme in nearly all of my other recommendations.
+- Physical Basics: Have you eaten? Are you thirsty? Tea is super relaxing if you need to get some hydration in. Don't forget, have you slept?
 - Writing down what’s on your mind can help dump out everything onto paper so you can come back to it later while focusing on relaxing in the here and now.
 - Coloring something either digitally or on paper can be very diverting and make you feel like a kid again <3
 - Talking with friends and loved ones can help you express what’s on your mind and together you can try to solve what’s bothering you.
