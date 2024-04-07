@@ -22,6 +22,9 @@ In these trying times, it's helpful to have things to fall back on to help you c
 - If you enjoy the calming lofi style of music, check out [Walking Dog](https://www.youtube.com/c/WalkingDogMusic), a DMCA free record label available on Youtube (or wherever you prefer to get your music from)
 - A Sound Bath is something soothing to listen to consisting of "singing bowls". [Example of a sound bath on Youtube](https://www.youtube.com/watch?v=-BlO514Iwvo&t=470s)
 
+### ASMR
+
+
 ### Stories
 
 - [Pzziz](https://pzizz.com) is an excellent app of sleep stories, soft sounds and is set up for a full night’s sleep or if you just want to take a nap! See also their spinoff apps:
@@ -36,6 +39,10 @@ In these trying times, it's helpful to have things to fall back on to help you c
 - Similar to Sleep with Me, [Sleep Whispers](https://sleepwhispers.com) is a recorded session of ramblings in a quiet almost ASMR like tone designed to give you something to listen to while you drift off.
 
 ## Watch
+
+### Hypnosis
+- [A Visual Hypnosis Example](https://www.youtube.com/watch?v=it5WX2gxXP4): Just stare at the colorful pattern while the minimal music and gentle suggestions help you relax.
+- [Zen Garden Example](https://www.youtube.com/watch?v=wxflcCxqebU): a wooden rake sliding through sand provides delightful ASMR like effect, and singing bowls are included.
 
 ### Pluto.tv has several excellent relaxing channels.
 - My favorite is [Naturescape](https://pluto.tv/live-tv/naturescape): (it is unfortunate it can be interrupted by ADs but the view is nice for being free)
@@ -58,6 +65,6 @@ In these trying times, it's helpful to have things to fall back on to help you c
 
 - Breathe. Really, just pay attention to your breath. It’s the most basic of tools you have anywhere and anytime to help control anxiety. You’ll find this a recurring theme in nearly all of my other recommendations.
 - Writing down what’s on your mind can help dump out everything onto paper so you can come back to it later while focusing on relaxing in the here and now.
-- Coloring something either digitally or on paper can be very diverting and make you feel like a kid again :)
+- Coloring something either digitally or on paper can be very diverting and make you feel like a kid again <3
 - Talking with friends and loved ones can help you express what’s on your mind and together you can try to solve what’s bothering you.
 - A warm bath or a shower can be relaxing. Consider adding scented candles or bath salts enhance the effect!
