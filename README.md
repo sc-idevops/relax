@@ -24,13 +24,13 @@ In these trying times, it's helpful to have things to fall back on to help you c
 
 ### ASMR
 #### Traditional ASMR
-- [Vito ASMR](https://youtu.be/NkKyY3eqll0?t=223&si=DozQfevujQsbso4X) a long variety compilation. I skipped the intro as it seemed a bit chaotic
+- [Vito ASMR](https://viewtube.io/watch?v=NkKyY3eqll0?t=223&si=DozQfevujQsbso4X) a long variety compilation. I skipped the intro as it seemed a bit chaotic
 
 #### Craftmaking
 - [PearFleur](https://www.viewtube.io/@PearFleur)
   - [Making Paint: BLUE IRIS](https://www.viewtube.io/watch?v=aCKtkvFvXa8)
 - [bitter melon bindery](https://www.viewtube.io/@bittermelonbindery)
-  - [Making journals for a peaceful mind ✦ ASMR bookbinding process](https://youtu.be/f8lwRyhKaBM?si=mOnOcTOmube07tNJ)
+  - [Making journals for a peaceful mind ✦ ASMR bookbinding process](https://viewtube.io/watch?v=f8lwRyhKaBM?si=mOnOcTOmube07tNJ)
 - [Tellervo: making soap 1hr compilation](https://www.viewtube.io/watch?v=qOly3ET6HkU)
 
 ### Stories
