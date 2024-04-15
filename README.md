@@ -4,12 +4,12 @@ In these trying times, it's helpful to have things to fall back on to help you c
 
 ## Meditate
 
-- [Calm.com](https://www.calm.com) is an excellent service for meditations, music, and even bedtime stories to help you relax and… be calm. They have a daily calm meditation that is updated every day with a timely thought or theme, and many specialized meditations to help you meet your goals. Also available on [YouTube](https://www.youtube.com/user/calmdotcom).
-- [Bettersleep](http://bettersleep.com/): For those who have trouble sleeping, this website/app has completely custom soundscapes with individual sliders, bedtime stories, even relaxation routines called “Sleep Moves” to help you get better sleep. This is my absolute go-to of all my recommendations, I am particularly fond of their hypnosis tracks and cute stories. Also available on [YouTube](https://www.youtube.com/user/utopiansounds).
+- [Calm.com](https://www.calm.com) is an excellent service for meditations, music, and even bedtime stories to help you relax and… be calm. They have a daily calm meditation that is updated every day with a timely thought or theme, and many specialized meditations to help you meet your goals. Also available on [YouTube](https://www.viewtube.io/user/calmdotcom).
+- [Bettersleep](http://bettersleep.com/): For those who have trouble sleeping, this website/app has completely custom soundscapes with individual sliders, bedtime stories, even relaxation routines called “Sleep Moves” to help you get better sleep. This is my absolute go-to of all my recommendations, I am particularly fond of their hypnosis tracks and cute stories. Also available on [YouTube](https://www.viewtube.io/user/utopiansounds).
 - [Medito](https://meditofoundation.org/medito-app): Volunteer run ad free meditation app. A solid choice with no commitment required!
 - [Deep Meditate](https://deepmeditate.com): Another stellar app with personalized meditation plans and bedtime stories to help you any time of the day. Available only on an app.
 - [Headspace](https://www.headspace.com) is another good meditation app, and also available on YouTube.
-- If you prefer something more open ended for your meditations the [Meditative Mind youtube channel](https://www.youtube.com/c/TheMeditativeMind) has all kinds of nice background sounds.
+- If you prefer something more open ended for your meditations the [Meditative Mind youtube channel](https://www.viewtube.io/c/TheMeditativeMind) has all kinds of nice background sounds.
 
 ## Listen
 
@@ -17,23 +17,28 @@ In these trying times, it's helpful to have things to fall back on to help you c
 
 - [myNoise.net](http://mynoise.net/) is a website filled with many sound generators which can help soothe you and transport you to different places with hundreds of custom top quality soundscapes.
 - [Moodist](https://moodist.app/) a simple open source website where you can listen to relaxing sounds with minimal fuss!
-- Another favorite is [Liquid Mind](https://www.youtube.com/channel/UCgogqJdyUFxNWjdD69kyE5Q), an excellent series of albums of very slow relaxing music.
+- Another favorite is [Liquid Mind](https://www.viewtube.io/channel/UCgogqJdyUFxNWjdD69kyE5Q), an excellent series of albums of very slow relaxing music.
 - [Atmosphere](https://peakpocketstudios.com) is a free app with a solid selection of sounds you can mix and match to suit your tastes.
-- If you enjoy the calming lofi style of music, check out [Walking Dog](https://www.youtube.com/c/WalkingDogMusic), a DMCA free record label available on Youtube (or wherever you prefer to get your music from)
-- A Sound Bath is something soothing to listen to consisting of "singing bowls". [Example of a sound bath on Youtube](https://www.youtube.com/watch?v=-BlO514Iwvo&t=470s)
+- If you enjoy the calming lofi style of music, check out [Walking Dog](https://www.viewtube.io/c/WalkingDogMusic), a DMCA free record label available on Youtube (or wherever you prefer to get your music from)
+- A Sound Bath is something soothing to listen to consisting of "singing bowls". [Example of a sound bath on Youtube](https://www.viewtube.io/watch?v=-BlO514Iwvo&t=470s)
 
 ### ASMR
-- [PearFleur](https://www.youtube.com/@PearFleur)
-  - [Making Paint: BLUE IRIS](https://www.youtube.com/watch?v=aCKtkvFvXa8)
-- [bitter melon bindery](https://www.youtube.com/@bittermelonbindery)
+#### Traditional ASMR
+- [Vito ASMR](https://youtu.be/NkKyY3eqll0?t=223&si=DozQfevujQsbso4X) a long variety compilation. I skipped the intro as it seemed a bit chaotic
+
+#### Craftmaking
+- [PearFleur](https://www.viewtube.io/@PearFleur)
+  - [Making Paint: BLUE IRIS](https://www.viewtube.io/watch?v=aCKtkvFvXa8)
+- [bitter melon bindery](https://www.viewtube.io/@bittermelonbindery)
   - [Making journals for a peaceful mind ✦ ASMR bookbinding process](https://youtu.be/f8lwRyhKaBM?si=mOnOcTOmube07tNJ)
-- [Tellervo: making soap 1hr compilation](https://www.youtube.com/watch?v=qOly3ET6HkU)
+- [Tellervo: making soap 1hr compilation](https://www.viewtube.io/watch?v=qOly3ET6HkU)
+
 ### Stories
 
 - [Pzziz](https://pzizz.com) is an excellent app of sleep stories, soft sounds and is set up for a full night’s sleep or if you just want to take a nap! See also their spinoff apps:
   - [Doze](https://dozeapp.com/) A spinoff of Pzziz with a different UI.
   - [Mesmerize](https://www.mesmerizeapp.com/) Another highly recommended app, it has many pre-sets so you can relax faster with less thinking. The visualizations are engaging and the hypnotism is very effective.
-- [Loona](https://loona.app) is an excellent app that has special interactive sleep stories where you color in a scene while the story unfolds! They also have regular bedtime stories and music to enjoy as well. Also available on [YouTube](https://www.youtube.com/channel/UCvOwxjPkjT8TdGrEP3IsxzA).
+- [Loona](https://loona.app) is an excellent app that has special interactive sleep stories where you color in a scene while the story unfolds! They also have regular bedtime stories and music to enjoy as well. Also available on [YouTube](https://www.viewtube.io/channel/UCvOwxjPkjT8TdGrEP3IsxzA).
 - Similar to Bettersleep, [Slumber](https://slumber.fm) has a huge library of bedtime stories and several relaxing sounds you can customize to help you drift to sleep.
 
 ### Podcasts
@@ -44,8 +49,8 @@ In these trying times, it's helpful to have things to fall back on to help you c
 ## Watch
 
 ### Hypnosis
-- [A Visual Hypnosis Example](https://www.youtube.com/watch?v=it5WX2gxXP4): Just stare at the colorful pattern while the minimal music and gentle suggestions help you relax.
-- [Zen Garden Example](https://www.youtube.com/watch?v=wxflcCxqebU): a wooden rake sliding through sand provides delightful ASMR like effect, and singing bowls are included.
+- [A Visual Hypnosis Example](https://www.viewtube.io/watch?v=it5WX2gxXP4): Just stare at the colorful pattern while the minimal music and gentle suggestions help you relax.
+- [Zen Garden Example](https://www.viewtube.io/watch?v=wxflcCxqebU): a wooden rake sliding through sand provides delightful ASMR like effect, and singing bowls are included.
 
 ### Pluto.tv has several excellent relaxing channels.
 - My favorite is [Naturescape](https://pluto.tv/live-tv/naturescape): (it is unfortunate it can be interrupted by ADs but the view is nice for being free)
@@ -59,10 +64,10 @@ In these trying times, it's helpful to have things to fall back on to help you c
 ### Youtube Channels that are relaxing:
 
 #### Restoration Videos
-- [Odd Tinkering](https://www.youtube.com/@OddTinkering): Electronics restoration with no sponsors or commentary. Just the sounds of repairwork.
-- [Old Things Never Die](https://www.youtube.com/@OldThingsNeverDie-): Another silent restoration channel. No nonsense, just the magic of watching something old become new again.
-- [TysyTube](https://www.youtube.com/@TysyTube): Restores various items, a good sense of humor in the text only commentary.
-- [MountainRugCleaning](https://www.youtube.com/@MountainRugCleaning): No commentary, just the sounds of carpets being scrubbed. Satisfying seeing something being cleaned.
+- [Odd Tinkering](https://www.viewtube.io/@OddTinkering): Electronics restoration with no sponsors or commentary. Just the sounds of repairwork.
+- [Old Things Never Die](https://www.viewtube.io/@OldThingsNeverDie-): Another silent restoration channel. No nonsense, just the magic of watching something old become new again.
+- [TysyTube](https://www.viewtube.io/@TysyTube): Restores various items, a good sense of humor in the text only commentary.
+- [MountainRugCleaning](https://www.viewtube.io/@MountainRugCleaning): No commentary, just the sounds of carpets being scrubbed. Satisfying seeing something being cleaned.
 
 ## Do
 
