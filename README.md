@@ -27,6 +27,7 @@ In these trying times, it's helpful to have things to fall back on to help you c
   - [Making Paint: BLUE IRIS](https://www.youtube.com/watch?v=aCKtkvFvXa8)
 - [bitter melon bindery](https://www.youtube.com/@bittermelonbindery)
   - [Making journals for a peaceful mind ✦ ASMR bookbinding process](https://youtu.be/f8lwRyhKaBM?si=mOnOcTOmube07tNJ)
+- [Tellervo: making soap 1hr compilation](https://www.youtube.com/watch?v=qOly3ET6HkU)
 ### Stories
 
 - [Pzziz](https://pzizz.com) is an excellent app of sleep stories, soft sounds and is set up for a full night’s sleep or if you just want to take a nap! See also their spinoff apps:
