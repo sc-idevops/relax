@@ -44,16 +44,19 @@ In these trying times, it's helpful to have things to fall back on to help you c
 - [A Visual Hypnosis Example](https://www.viewtube.io/watch?v=it5WX2gxXP4): Just stare at the colorful pattern while the minimal music and gentle suggestions help you relax.
 - [Zen Garden Example](https://www.viewtube.io/watch?v=wxflcCxqebU): a wooden rake sliding through sand provides delightful ASMR like effect, and singing bowls are included.
 
-### Pluto.tv has several excellent relaxing channels.
+### Pluto.tv 
+Pluto TV has several excellent relaxing channels.
 - My favorite is [Naturescape](https://pluto.tv/live-tv/naturescape): (it is unfortunate it can be interrupted by ADs but the view is nice for being free)
 - There are other channels if you just need something mindless on to have in the background making noise. You’ll also find [Bob Ross](https://pluto.tv/en/live-tv/the-bob-ross-channel) there too!
 
-### Twitch.tv has several streams I find relaxing to watch.
+### Twitch.tv
+Twitch has several streams I find relaxing to watch.
 - More often than not [Bob Ross](https://www.twitch.tv/bobross) is painting pictures with his almost ASMR like voice.
 - Twitch also has [Cooking Shows](https://www.twitch.tv/hungry) running 24/7 which are surprisingly relaxing and 100% drama free.
 - One of the more odd streams called [Nothing, Forever](https://www.twitch.tv/watchmeforever) is a seemingly AI generated sit-com in the style of Seinfeld which never seems to end...
 
-### Youtube Channels that are relaxing:
+### Youtube 
+There are a variety of youtube channels which I've broken down into different categories to watch:
 
 #### Restoration Videos
 - [Odd Tinkering](https://www.viewtube.io/@OddTinkering): Electronics restoration with no sponsors or commentary. Just the sounds of repairwork.
@@ -61,7 +64,7 @@ In these trying times, it's helpful to have things to fall back on to help you c
 - [TysyTube](https://www.viewtube.io/@TysyTube): Restores various items, a good sense of humor in the text only commentary.
 - [MountainRugCleaning](https://www.viewtube.io/@MountainRugCleaning): No commentary, just the sounds of carpets being scrubbed. Satisfying seeing something being cleaned.
 
-##### Craftmaking
+#### Craftmaking
 - [PearFleur](https://www.viewtube.io/@PearFleur)
   - [Making Paint: BLUE IRIS](https://www.viewtube.io/watch?v=aCKtkvFvXa8)
   - [Clay Crafting:](https://www.viewtube.io/watch?v=5CZMI__cL_A)
