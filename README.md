@@ -9,7 +9,9 @@ In these trying times, it's helpful to have things to fall back on to help you c
 - [Medito](https://meditofoundation.org/medito-app): Volunteer run ad free meditation app. A solid choice with no commitment required!
 - [Deep Meditate](https://deepmeditate.com): Another stellar app with personalized meditation plans and bedtime stories to help you any time of the day. Available only on an app.
 - [Headspace](https://www.headspace.com) is another good meditation app, and also available on YouTube.
-- If you prefer something more open ended for your meditations the [Meditative Mind youtube channel](https://www.viewtube.io/c/TheMeditativeMind) has all kinds of nice background sounds.
+
+### Yoga Nidra
+https://www.youtube.com/watch?v=oKno4BOVyBg
 
 ## Listen
 
@@ -20,10 +22,12 @@ In these trying times, it's helpful to have things to fall back on to help you c
 - Another favorite is [Liquid Mind](https://www.viewtube.io/channel/UCgogqJdyUFxNWjdD69kyE5Q), an excellent series of albums of very slow relaxing music.
 - [Atmosphere](https://peakpocketstudios.com) is a free app with a solid selection of sounds you can mix and match to suit your tastes.
 - If you enjoy the calming lofi style of music, check out [Walking Dog](https://www.viewtube.io/c/WalkingDogMusic), a DMCA free record label available on Youtube (or wherever you prefer to get your music from)
-- A Sound Bath is something soothing to listen to consisting of "singing bowls". [Example of a sound bath on Youtube](https://www.viewtube.io/watch?v=-BlO514Iwvo&t=470s)
+- If you prefer something more open ended for your meditations the [Meditative Mind Youtube Channel](https://www.viewtube.io/c/TheMeditativeMind) has all kinds of nice background sounds.
 
 ### ASMR
 - [Vito ASMR](https://viewtube.io/watch?v=NkKyY3eqll0?t=223&si=DozQfevujQsbso4X) a long variety compilation. I skipped the intro as it seemed a bit chaotic
+- A Sound Bath is something soothing to listen to consisting of "singing bowls"
+  - [Example of a sound bath on Youtube](https://www.viewtube.io/watch?v=-BlO514Iwvo)
 
 ### Stories
 
@@ -63,6 +67,7 @@ There are a variety of youtube channels which I've broken down into different ca
 - [Old Things Never Die](https://www.viewtube.io/@OldThingsNeverDie-): Another silent restoration channel. No nonsense, just the magic of watching something old become new again.
 - [TysyTube](https://www.viewtube.io/@TysyTube): Restores various items, a good sense of humor in the text only commentary.
 - [MountainRugCleaning](https://www.viewtube.io/@MountainRugCleaning): No commentary, just the sounds of carpets being scrubbed. Satisfying seeing something being cleaned.
+- [Rescue Restore](https://www.viewtube.io/@RescueRestore)
 
 #### Craftmaking
 - [PearFleur](https://www.viewtube.io/@PearFleur)
@@ -72,10 +77,15 @@ There are a variety of youtube channels which I've broken down into different ca
   - [Making journals for a peaceful mind ✦ ASMR bookbinding process](https://viewtube.io/watch?v=f8lwRyhKaBM?si=mOnOcTOmube07tNJ)
 - [Tellervo: making soap 1hr compilation](https://www.viewtube.io/watch?v=qOly3ET6HkU)
 
+As many times as I've mentioned Bob Ross there is new content in his style on the [Bob Ross Youtube Channel](https://www.viewtube.io/@bobross_thejoyofpainting) that are worth watching. 
+
 ## Do
 
 - Breathe. Really, just pay attention to your breath. It’s the most basic of tools you have anywhere and anytime to help control anxiety. You’ll find this a recurring theme in nearly all of my other recommendations.
-- Physical Basics: Have you eaten? Are you thirsty? Tea is super relaxing if you need to get some hydration in. Don't forget, have you slept?
+- Physical Basics: 
+  - Have you eaten? 
+  - Are you thirsty? Tea is super relaxing if you need to get some hydration in. 
+  - Don't forget, have you slept?
 - Writing down what’s on your mind can help dump out everything onto paper so you can come back to it later while focusing on relaxing in the here and now.
 - Coloring something either digitally or on paper can be very diverting and make you feel like a kid again <3
 - Talking with friends and loved ones can help you express what’s on your mind and together you can try to solve what’s bothering you.
