@@ -29,6 +29,7 @@ In these trying times, it's helpful to have things to fall back on to help you c
 #### Craftmaking
 - [PearFleur](https://www.viewtube.io/@PearFleur)
   - [Making Paint: BLUE IRIS](https://www.viewtube.io/watch?v=aCKtkvFvXa8)
+  - [Clay Crafting:](https://www.viewtube.io/watch?v=5CZMI__cL_A)
 - [bitter melon bindery](https://www.viewtube.io/@bittermelonbindery)
   - [Making journals for a peaceful mind ✦ ASMR bookbinding process](https://viewtube.io/watch?v=f8lwRyhKaBM?si=mOnOcTOmube07tNJ)
 - [Tellervo: making soap 1hr compilation](https://www.viewtube.io/watch?v=qOly3ET6HkU)
