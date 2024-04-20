@@ -23,15 +23,7 @@ In these trying times, it's helpful to have things to fall back on to help you c
 - A Sound Bath is something soothing to listen to consisting of "singing bowls". [Example of a sound bath on Youtube](https://www.viewtube.io/watch?v=-BlO514Iwvo&t=470s)
 
 ### ASMR
-#### Traditional ASMR
 - [Vito ASMR](https://viewtube.io/watch?v=NkKyY3eqll0?t=223&si=DozQfevujQsbso4X) a long variety compilation. I skipped the intro as it seemed a bit chaotic
-
-#### Craftmaking
-- [PearFleur](https://www.viewtube.io/@PearFleur)
-  - [Making Paint: BLUE IRIS](https://www.viewtube.io/watch?v=aCKtkvFvXa8)
-- [bitter melon bindery](https://www.viewtube.io/@bittermelonbindery)
-  - [Making journals for a peaceful mind ✦ ASMR bookbinding process](https://viewtube.io/watch?v=f8lwRyhKaBM?si=mOnOcTOmube07tNJ)
-- [Tellervo: making soap 1hr compilation](https://www.viewtube.io/watch?v=qOly3ET6HkU)
 
 ### Stories
 
@@ -68,6 +60,14 @@ In these trying times, it's helpful to have things to fall back on to help you c
 - [Old Things Never Die](https://www.viewtube.io/@OldThingsNeverDie-): Another silent restoration channel. No nonsense, just the magic of watching something old become new again.
 - [TysyTube](https://www.viewtube.io/@TysyTube): Restores various items, a good sense of humor in the text only commentary.
 - [MountainRugCleaning](https://www.viewtube.io/@MountainRugCleaning): No commentary, just the sounds of carpets being scrubbed. Satisfying seeing something being cleaned.
+
+##### Craftmaking
+- [PearFleur](https://www.viewtube.io/@PearFleur)
+  - [Making Paint: BLUE IRIS](https://www.viewtube.io/watch?v=aCKtkvFvXa8)
+  - [Clay Crafting:](https://www.viewtube.io/watch?v=5CZMI__cL_A)
+- [bitter melon bindery](https://www.viewtube.io/@bittermelonbindery)
+  - [Making journals for a peaceful mind ✦ ASMR bookbinding process](https://viewtube.io/watch?v=f8lwRyhKaBM?si=mOnOcTOmube07tNJ)
+- [Tellervo: making soap 1hr compilation](https://www.viewtube.io/watch?v=qOly3ET6HkU)
 
 ## Do
 
