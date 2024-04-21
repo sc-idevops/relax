@@ -11,7 +11,8 @@ In these trying times, it's helpful to have things to fall back on to help you c
 - [Headspace](https://www.headspace.com) is another good meditation app, and also available on YouTube.
 
 ### Yoga Nidra
-https://www.youtube.com/watch?v=oKno4BOVyBg
+The Yoga of sleep takes you through several practices to take you on a voyage through yourself to help you relax and fall asleep at night
+- [Yoga Nidra for Beginners](https://www.youtube.com/watch?v=zjm-LqavvZo)
 
 ## Listen
 
@@ -76,6 +77,9 @@ There are a variety of youtube channels which I've broken down into different ca
 - [bitter melon bindery](https://www.viewtube.io/@bittermelonbindery)
   - [Making journals for a peaceful mind ✦ ASMR bookbinding process](https://viewtube.io/watch?v=f8lwRyhKaBM?si=mOnOcTOmube07tNJ)
 - [Tellervo: making soap 1hr compilation](https://www.viewtube.io/watch?v=qOly3ET6HkU)
+
+#### Cooking
+- [Emerald marine Chocolate mint tart](https://www.youtube.com/watch?v=TXXjeIF7M7I)
 
 As many times as I've mentioned Bob Ross there is new content in his style on the [Bob Ross Youtube Channel](https://www.viewtube.io/@bobross_thejoyofpainting) that are worth watching. 
 
