@@ -79,7 +79,7 @@ There are a variety of youtube channels which I've broken down into different ca
 - [Tellervo: making soap 1hr compilation](https://www.viewtube.io/watch?v=qOly3ET6HkU)
 
 #### Cooking
-- [Emerald marine Chocolate mint tart](https://www.youtube.com/watch?v=TXXjeIF7M7I)
+- [Emerald marine Chocolate mint tart](https://www.viewtube.io/watch?v=TXXjeIF7M7I)
 
 As many times as I've mentioned Bob Ross there is new content in his style on the [Bob Ross Youtube Channel](https://www.viewtube.io/@bobross_thejoyofpainting) that are worth watching. 
 
