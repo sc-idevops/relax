@@ -62,6 +62,7 @@ Twitch has several streams I find relaxing to watch.
 
 ### Youtube 
 There are a variety of youtube channels which I've broken down into different categories to watch:
+(Note: These links all use [viewtube](https://github.com/viewtube/viewtube), to allow you a quieter experience without additional distractions. Should these links not work, please replace viewtube.io with youtube.com to see the video from the source)
 
 #### Restoration Videos
 - [Odd Tinkering](https://www.viewtube.io/@OddTinkering): Electronics restoration with no sponsors or commentary. Just the sounds of repairwork.
@@ -79,7 +80,8 @@ There are a variety of youtube channels which I've broken down into different ca
 - [Tellervo: making soap 1hr compilation](https://www.viewtube.io/watch?v=qOly3ET6HkU)
 
 #### Cooking
-- [Emerald marine Chocolate mint tart](https://www.youtube.com/watch?v=TXXjeIF7M7I)
+- [Julia & Jacques Cooking at Home](https://www.viewtube.io/playlist?list=PLCfyaSfs-7cwR_pwMUqdrDN6xtgPxKlAa): The adorable teasing between these two wholesome cooks creates a homey atmosphere to watch some delicious food prepared by professionals!
+- [Emerald marine Chocolate mint tart](https://www.viewtube.io/watch?v=TXXjeIF7M7I)
 
 As many times as I've mentioned Bob Ross there is new content in his style on the [Bob Ross Youtube Channel](https://www.viewtube.io/@bobross_thejoyofpainting) that are worth watching. 
 
