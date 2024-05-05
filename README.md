@@ -82,6 +82,7 @@ There are a variety of youtube channels which I've broken down into different ca
 #### Cooking
 - [Julia & Jacques Cooking at Home](https://www.viewtube.io/playlist?list=PLCfyaSfs-7cwR_pwMUqdrDN6xtgPxKlAa): The adorable teasing between these two wholesome cooks creates a homey atmosphere to watch some delicious food prepared by professionals!
 - [Emerald marine Chocolate mint tart](https://www.viewtube.io/watch?v=TXXjeIF7M7I)
+- [Cozy Winter Afternoon](https://viewtube.io/watch?v=qau58jh92vc) Gentle Narration in an old fashioned kitchen making tasty treats on a cold winter day. Couldn't get more cozy!
 
 As many times as I've mentioned Bob Ross there is new content in his style on the [Bob Ross Youtube Channel](https://www.viewtube.io/@bobross_thejoyofpainting) that are worth watching. 
 
