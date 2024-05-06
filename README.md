@@ -30,6 +30,8 @@ The Yoga of sleep takes you through several practices to take you on a voyage th
 - A Sound Bath is something soothing to listen to consisting of "singing bowls"
   - [Example of a sound bath on Youtube](https://www.viewtube.io/watch?v=-BlO514Iwvo)
 
+### Videos
+- [Polyrhythm Relaxation](https://www.viewtube.io/watch?v=ocLD9VbwVKw)
 ### Stories
 
 - [Pzziz](https://pzizz.com) is an excellent app of sleep stories, soft sounds and is set up for a full night’s sleep or if you just want to take a nap! See also their spinoff apps:
@@ -48,6 +50,7 @@ The Yoga of sleep takes you through several practices to take you on a voyage th
 ### Hypnosis
 - [A Visual Hypnosis Example](https://www.viewtube.io/watch?v=it5WX2gxXP4): Just stare at the colorful pattern while the minimal music and gentle suggestions help you relax.
 - [Zen Garden Example](https://www.viewtube.io/watch?v=wxflcCxqebU): a wooden rake sliding through sand provides delightful ASMR like effect, and singing bowls are included.
+- [Sleep Hypnosis](https://www.viewtube.io/watch?v=5_WLGc5K3d0) Technically nothing to see here but to listen
 
 ### Pluto.tv 
 Pluto TV has several excellent relaxing channels.
@@ -83,6 +86,7 @@ There are a variety of youtube channels which I've broken down into different ca
 - [Julia & Jacques Cooking at Home](https://www.viewtube.io/playlist?list=PLCfyaSfs-7cwR_pwMUqdrDN6xtgPxKlAa): The adorable teasing between these two wholesome cooks creates a homey atmosphere to watch some delicious food prepared by professionals!
 - [Emerald marine Chocolate mint tart](https://www.viewtube.io/watch?v=TXXjeIF7M7I)
 - [Cozy Winter Afternoon](https://viewtube.io/watch?v=qau58jh92vc) Gentle Narration in an old fashioned kitchen making tasty treats on a cold winter day. Couldn't get more cozy!
+- [Night Sky Jelly](https://www.viewtube.io/watch?v=YHwzPIJh5FM)
 
 As many times as I've mentioned Bob Ross there is new content in his style on the [Bob Ross Youtube Channel](https://www.viewtube.io/@bobross_thejoyofpainting) that are worth watching. 
 
