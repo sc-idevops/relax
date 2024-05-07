@@ -29,9 +29,11 @@ The Yoga of sleep takes you through several practices to take you on a voyage th
 - [Vito ASMR](https://viewtube.io/watch?v=NkKyY3eqll0?t=223&si=DozQfevujQsbso4X) a long variety compilation. I skipped the intro as it seemed a bit chaotic
 - A Sound Bath is something soothing to listen to consisting of "singing bowls"
   - [Example of a sound bath on Youtube](https://www.viewtube.io/watch?v=-BlO514Iwvo)
+- [Sarah Lavender Anxiety ASMR](https://www.viewtube.io/watch?v=BuTdBAM3rOw)
 
 ### Videos
 - [Polyrhythm Relaxation](https://www.viewtube.io/watch?v=ocLD9VbwVKw)
+
 ### Stories
 
 - [Pzziz](https://pzizz.com) is an excellent app of sleep stories, soft sounds and is set up for a full night’s sleep or if you just want to take a nap! See also their spinoff apps:
@@ -64,7 +66,7 @@ Twitch has several streams I find relaxing to watch.
 - One of the more odd streams called [Nothing, Forever](https://www.twitch.tv/watchmeforever) is a seemingly AI generated sit-com in the style of Seinfeld which never seems to end...
 
 ### Youtube 
-There are a variety of youtube channels which I've broken down into different categories to watch:
+There are a variety of youtube channels which I've broken down into different categories to watch. There's something slightly mesmerizing and relaxing about watching craftsmen put so much into their creations.
 (Note: These links all use [viewtube](https://github.com/viewtube/viewtube), to allow you a quieter experience without additional distractions. Should these links not work, please replace viewtube.io with youtube.com to see the video from the source)
 
 #### Restoration Videos
@@ -81,6 +83,9 @@ There are a variety of youtube channels which I've broken down into different ca
 - [bitter melon bindery](https://www.viewtube.io/@bittermelonbindery)
   - [Making journals for a peaceful mind ✦ ASMR bookbinding process](https://viewtube.io/watch?v=f8lwRyhKaBM?si=mOnOcTOmube07tNJ)
 - [Tellervo: making soap 1hr compilation](https://www.viewtube.io/watch?v=qOly3ET6HkU)
+- [Violin Making](https://www.viewtube.io/watch?v=YO5KMZfyKBc)
+- [Diamond Paintings](https://www.viewtube.io/watch?v=obUK-udjGRw)
+- [Glass Pen & Sparkling Ink](https://www.viewtube.io/watch?v=UTRweceb6b0)
 
 #### Cooking
 - [Julia & Jacques Cooking at Home](https://www.viewtube.io/playlist?list=PLCfyaSfs-7cwR_pwMUqdrDN6xtgPxKlAa): The adorable teasing between these two wholesome cooks creates a homey atmosphere to watch some delicious food prepared by professionals!
