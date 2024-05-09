@@ -1,4 +1,4 @@
-﻿# Stefen’s Relaxation Toolkit
+# Stefen’s Relaxation Toolkit
 
 In these trying times, it's helpful to have things to fall back on to help you calm down.
 
@@ -17,22 +17,26 @@ The Yoga of sleep takes you through several practices to take you on a voyage th
 ## Listen
 
 ### Music/Sounds
-
 - [myNoise.net](http://mynoise.net/) is a website filled with many sound generators which can help soothe you and transport you to different places with hundreds of custom top quality soundscapes.
 - [Moodist](https://moodist.app/) a simple open source website where you can listen to relaxing sounds with minimal fuss!
 - Another favorite is [Liquid Mind](https://www.viewtube.io/channel/UCgogqJdyUFxNWjdD69kyE5Q), an excellent series of albums of very slow relaxing music.
 - [Atmosphere](https://peakpocketstudios.com) is a free app with a solid selection of sounds you can mix and match to suit your tastes.
 - If you enjoy the calming lofi style of music, check out [Walking Dog](https://www.viewtube.io/c/WalkingDogMusic), a DMCA free record label available on Youtube (or wherever you prefer to get your music from)
 - If you prefer something more open ended for your meditations the [Meditative Mind Youtube Channel](https://www.viewtube.io/c/TheMeditativeMind) has all kinds of nice background sounds.
+#### Polyrhythm
+- [Polyrhythm Relaxation: Racing Thoughts](https://www.viewtube.io/watch?v=ocLD9VbwVKw)
+- [Infinity Vibes](https://www.viewtube.io/watch?v=Ep1oB2GYJ0c)
 
 ### ASMR
 - [Vito ASMR](https://viewtube.io/watch?v=NkKyY3eqll0?t=223&si=DozQfevujQsbso4X) a long variety compilation. I skipped the intro as it seemed a bit chaotic
 - A Sound Bath is something soothing to listen to consisting of "singing bowls"
   - [Example of a sound bath on Youtube](https://www.viewtube.io/watch?v=-BlO514Iwvo)
+- [Zen Garden Example](https://www.viewtube.io/watch?v=wxflcCxqebU): a wooden rake sliding through sand provides delightful ASMR like effect, and singing bowls are included.
 - [Sarah Lavender Anxiety ASMR](https://www.viewtube.io/watch?v=BuTdBAM3rOw)
 
-### Videos
-- [Polyrhythm Relaxation](https://www.viewtube.io/watch?v=ocLD9VbwVKw)
+### Hypnosis
+- [A Visual Hypnosis Example](https://www.viewtube.io/watch?v=it5WX2gxXP4): Just stare at the colorful pattern while the minimal music and gentle suggestions help you relax.
+- [Sleep Hypnosis](https://www.viewtube.io/watch?v=5_WLGc5K3d0) Technically nothing to see here but to listen
 
 ### Stories
 
@@ -48,11 +52,6 @@ The Yoga of sleep takes you through several practices to take you on a voyage th
 - Similar to Sleep with Me, [Sleep Whispers](https://sleepwhispers.com) is a recorded session of ramblings in a quiet almost ASMR like tone designed to give you something to listen to while you drift off.
 
 ## Watch
-
-### Hypnosis
-- [A Visual Hypnosis Example](https://www.viewtube.io/watch?v=it5WX2gxXP4): Just stare at the colorful pattern while the minimal music and gentle suggestions help you relax.
-- [Zen Garden Example](https://www.viewtube.io/watch?v=wxflcCxqebU): a wooden rake sliding through sand provides delightful ASMR like effect, and singing bowls are included.
-- [Sleep Hypnosis](https://www.viewtube.io/watch?v=5_WLGc5K3d0) Technically nothing to see here but to listen
 
 ### Pluto.tv 
 Pluto TV has several excellent relaxing channels.
