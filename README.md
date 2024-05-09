@@ -1,4 +1,4 @@
-﻿# Stefen’s Relaxation Toolkit
+# Stefen’s Relaxation Toolkit
 
 In these trying times, it's helpful to have things to fall back on to help you calm down.
 
@@ -17,18 +17,26 @@ The Yoga of sleep takes you through several practices to take you on a voyage th
 ## Listen
 
 ### Music/Sounds
-
 - [myNoise.net](http://mynoise.net/) is a website filled with many sound generators which can help soothe you and transport you to different places with hundreds of custom top quality soundscapes.
 - [Moodist](https://moodist.app/) a simple open source website where you can listen to relaxing sounds with minimal fuss!
 - Another favorite is [Liquid Mind](https://www.viewtube.io/channel/UCgogqJdyUFxNWjdD69kyE5Q), an excellent series of albums of very slow relaxing music.
 - [Atmosphere](https://peakpocketstudios.com) is a free app with a solid selection of sounds you can mix and match to suit your tastes.
 - If you enjoy the calming lofi style of music, check out [Walking Dog](https://www.viewtube.io/c/WalkingDogMusic), a DMCA free record label available on Youtube (or wherever you prefer to get your music from)
 - If you prefer something more open ended for your meditations the [Meditative Mind Youtube Channel](https://www.viewtube.io/c/TheMeditativeMind) has all kinds of nice background sounds.
+#### Polyrhythm
+- [Polyrhythm Relaxation: Racing Thoughts](https://www.viewtube.io/watch?v=ocLD9VbwVKw)
+- [Infinity Vibes](https://www.viewtube.io/watch?v=Ep1oB2GYJ0c)
 
 ### ASMR
 - [Vito ASMR](https://viewtube.io/watch?v=NkKyY3eqll0?t=223&si=DozQfevujQsbso4X) a long variety compilation. I skipped the intro as it seemed a bit chaotic
 - A Sound Bath is something soothing to listen to consisting of "singing bowls"
   - [Example of a sound bath on Youtube](https://www.viewtube.io/watch?v=-BlO514Iwvo)
+- [Zen Garden Example](https://www.viewtube.io/watch?v=wxflcCxqebU): a wooden rake sliding through sand provides delightful ASMR like effect, and singing bowls are included.
+- [Sarah Lavender Anxiety ASMR](https://www.viewtube.io/watch?v=BuTdBAM3rOw)
+
+### Hypnosis
+- [A Visual Hypnosis Example](https://www.viewtube.io/watch?v=it5WX2gxXP4): Just stare at the colorful pattern while the minimal music and gentle suggestions help you relax.
+- [Sleep Hypnosis](https://www.viewtube.io/watch?v=5_WLGc5K3d0) Technically nothing to see here but to listen
 
 ### Stories
 
@@ -45,10 +53,6 @@ The Yoga of sleep takes you through several practices to take you on a voyage th
 
 ## Watch
 
-### Hypnosis
-- [A Visual Hypnosis Example](https://www.viewtube.io/watch?v=it5WX2gxXP4): Just stare at the colorful pattern while the minimal music and gentle suggestions help you relax.
-- [Zen Garden Example](https://www.viewtube.io/watch?v=wxflcCxqebU): a wooden rake sliding through sand provides delightful ASMR like effect, and singing bowls are included.
-
 ### Pluto.tv 
 Pluto TV has several excellent relaxing channels.
 - My favorite is [Naturescape](https://pluto.tv/live-tv/naturescape): (it is unfortunate it can be interrupted by ADs but the view is nice for being free)
@@ -61,7 +65,7 @@ Twitch has several streams I find relaxing to watch.
 - One of the more odd streams called [Nothing, Forever](https://www.twitch.tv/watchmeforever) is a seemingly AI generated sit-com in the style of Seinfeld which never seems to end...
 
 ### Youtube 
-There are a variety of youtube channels which I've broken down into different categories to watch:
+There are a variety of youtube channels which I've broken down into different categories to watch. There's something slightly mesmerizing and relaxing about watching craftsmen put so much into their creations.
 (Note: These links all use [viewtube](https://github.com/viewtube/viewtube), to allow you a quieter experience without additional distractions. Should these links not work, please replace viewtube.io with youtube.com to see the video from the source)
 
 #### Restoration Videos
@@ -78,10 +82,15 @@ There are a variety of youtube channels which I've broken down into different ca
 - [bitter melon bindery](https://www.viewtube.io/@bittermelonbindery)
   - [Making journals for a peaceful mind ✦ ASMR bookbinding process](https://viewtube.io/watch?v=f8lwRyhKaBM?si=mOnOcTOmube07tNJ)
 - [Tellervo: making soap 1hr compilation](https://www.viewtube.io/watch?v=qOly3ET6HkU)
+- [Violin Making](https://www.viewtube.io/watch?v=YO5KMZfyKBc)
+- [Diamond Paintings](https://www.viewtube.io/watch?v=obUK-udjGRw)
+- [Glass Pen & Sparkling Ink](https://www.viewtube.io/watch?v=UTRweceb6b0)
 
 #### Cooking
 - [Julia & Jacques Cooking at Home](https://www.viewtube.io/playlist?list=PLCfyaSfs-7cwR_pwMUqdrDN6xtgPxKlAa): The adorable teasing between these two wholesome cooks creates a homey atmosphere to watch some delicious food prepared by professionals!
 - [Emerald marine Chocolate mint tart](https://www.viewtube.io/watch?v=TXXjeIF7M7I)
+- [Cozy Winter Afternoon](https://viewtube.io/watch?v=qau58jh92vc) Gentle Narration in an old fashioned kitchen making tasty treats on a cold winter day. Couldn't get more cozy!
+- [Night Sky Jelly](https://www.viewtube.io/watch?v=YHwzPIJh5FM)
 
 As many times as I've mentioned Bob Ross there is new content in his style on the [Bob Ross Youtube Channel](https://www.viewtube.io/@bobross_thejoyofpainting) that are worth watching. 
 
