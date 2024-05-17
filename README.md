@@ -33,6 +33,7 @@ The Yoga of sleep takes you through several practices to take you on a voyage th
   - [Example of a sound bath on Youtube](https://www.viewtube.io/watch?v=-BlO514Iwvo)
 - [Zen Garden Example](https://www.viewtube.io/watch?v=wxflcCxqebU): a wooden rake sliding through sand provides delightful ASMR like effect, and singing bowls are included.
 - [Sarah Lavender Anxiety ASMR](https://www.viewtube.io/watch?v=BuTdBAM3rOw)
+- [Keyboard Typing](https://www.viewtube.io/watch?v=l4XclA2-FKg)
 
 ### Hypnosis
 - [A Visual Hypnosis Example](https://www.viewtube.io/watch?v=it5WX2gxXP4): Just stare at the colorful pattern while the minimal music and gentle suggestions help you relax.
