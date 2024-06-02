@@ -1,4 +1,4 @@
-# Stefen’s Relaxation Toolkit
+﻿# Stefen’s Relaxation Toolkit
 
 In these trying times, it's helpful to have things to fall back on to help you calm down.
 
@@ -92,6 +92,9 @@ There are a variety of youtube channels which I've broken down into different ca
 - [Emerald marine Chocolate mint tart](https://www.viewtube.io/watch?v=TXXjeIF7M7I)
 - [Cozy Winter Afternoon](https://viewtube.io/watch?v=qau58jh92vc) Gentle Narration in an old fashioned kitchen making tasty treats on a cold winter day. Couldn't get more cozy!
 - [Night Sky Jelly](https://www.viewtube.io/watch?v=YHwzPIJh5FM)
+
+#### Misc
+- [Quiet Nerd](https://viewtube.io/watch?v=Dxl2gpsiRws?si=-gBeqZ7pR2CCFN1w) A fusion of nerd and nature, watch a vlog of a calming day out in the woods with an amazing hand build electric powered camper!
 
 As many times as I've mentioned Bob Ross there is new content in his style on the [Bob Ross Youtube Channel](https://www.viewtube.io/@bobross_thejoyofpainting) that are worth watching. 
 
