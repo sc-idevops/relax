@@ -4,8 +4,8 @@ In these trying times, it's helpful to have things to fall back on to help you c
 
 ## Meditate
 
-- [Calm.com](https://www.calm.com) is an excellent service for meditations, music, and even bedtime stories to help you relax and… be calm. They have a daily calm meditation that is updated every day with a timely thought or theme, and many specialized meditations to help you meet your goals. Also available on [YouTube](https://www.viewtube.io/user/calmdotcom).
-- [Bettersleep](http://bettersleep.com/): For those who have trouble sleeping, this website/app has completely custom soundscapes with individual sliders, bedtime stories, even relaxation routines called “Sleep Moves” to help you get better sleep. This is my absolute go-to of all my recommendations, I am particularly fond of their hypnosis tracks and cute stories. Also available on [YouTube](https://www.viewtube.io/user/utopiansounds).
+- [Calm.com](https://www.calm.com) is an excellent service for meditations, music, and even bedtime stories to help you relax and… be calm. They have a daily calm meditation that is updated every day with a timely thought or theme, and many specialized meditations to help you meet your goals. Also available on [YouTube](https://viewtube.io/user/calmdotcom).
+- [Bettersleep](http://bettersleep.com/): For those who have trouble sleeping, this website/app has completely custom soundscapes with individual sliders, bedtime stories, even relaxation routines called “Sleep Moves” to help you get better sleep. This is my absolute go-to of all my recommendations, I am particularly fond of their hypnosis tracks and cute stories. Also available on [YouTube](https://viewtube.io/user/utopiansounds).
 - [Medito](https://meditofoundation.org/medito-app): Volunteer run ad free meditation app. A solid choice with no commitment required!
 - [Deep Meditate](https://deepmeditate.com): Another stellar app with personalized meditation plans and bedtime stories to help you any time of the day. Available only on an app.
 - [Headspace](https://www.headspace.com) is another good meditation app, and also available on YouTube.
@@ -19,32 +19,32 @@ The Yoga of sleep takes you through several practices to take you on a voyage th
 ### Music/Sounds
 - [myNoise.net](http://mynoise.net/) is a website filled with many sound generators which can help soothe you and transport you to different places with hundreds of custom top quality soundscapes.
 - [Moodist](https://moodist.app/) a simple open source website where you can listen to relaxing sounds with minimal fuss!
-- Another favorite is [Liquid Mind](https://www.viewtube.io/channel/UCgogqJdyUFxNWjdD69kyE5Q), an excellent series of albums of very slow relaxing music.
+- Another favorite is [Liquid Mind](https://viewtube.io/channel/UCgogqJdyUFxNWjdD69kyE5Q), an excellent series of albums of very slow relaxing music.
 - [Atmosphere](https://peakpocketstudios.com) is a free app with a solid selection of sounds you can mix and match to suit your tastes.
-- If you enjoy the calming lofi style of music, check out [Walking Dog](https://www.viewtube.io/c/WalkingDogMusic), a DMCA free record label available on Youtube (or wherever you prefer to get your music from)
-- If you prefer something more open ended for your meditations the [Meditative Mind Youtube Channel](https://www.viewtube.io/c/TheMeditativeMind) has all kinds of nice background sounds.
+- If you enjoy the calming lofi style of music, check out [Walking Dog](https://viewtube.io/c/WalkingDogMusic), a DMCA free record label available on Youtube (or wherever you prefer to get your music from)
+- If you prefer something more open ended for your meditations the [Meditative Mind Youtube Channel](https://viewtube.io/c/TheMeditativeMind) has all kinds of nice background sounds.
 #### Polyrhythm
-- [Polyrhythm Relaxation: Racing Thoughts](https://www.viewtube.io/watch?v=ocLD9VbwVKw)
-- [Infinity Vibes](https://www.viewtube.io/watch?v=Ep1oB2GYJ0c)
+- [Polyrhythm Relaxation: Racing Thoughts](https://viewtube.io/watch?v=ocLD9VbwVKw)
+- [Infinity Vibes](https://viewtube.io/watch?v=Ep1oB2GYJ0c)
 
 ### ASMR
 - [Vito ASMR](https://viewtube.io/watch?v=NkKyY3eqll0?t=223&si=DozQfevujQsbso4X) a long variety compilation. I skipped the intro as it seemed a bit chaotic
 - A Sound Bath is something soothing to listen to consisting of "singing bowls"
-  - [Example of a sound bath on Youtube](https://www.viewtube.io/watch?v=-BlO514Iwvo)
-- [Zen Garden Example](https://www.viewtube.io/watch?v=wxflcCxqebU): a wooden rake sliding through sand provides delightful ASMR like effect, and singing bowls are included.
-- [Sarah Lavender Anxiety ASMR](https://www.viewtube.io/watch?v=BuTdBAM3rOw)
-- [Keyboard Typing](https://www.viewtube.io/watch?v=l4XclA2-FKg)
+  - [Example of a sound bath on Youtube](https://viewtube.io/watch?v=-BlO514Iwvo)
+- [Zen Garden Example](https://viewtube.io/watch?v=wxflcCxqebU): a wooden rake sliding through sand provides delightful ASMR like effect, and singing bowls are included.
+- [Sarah Lavender Anxiety ASMR](https://viewtube.io/watch?v=BuTdBAM3rOw)
+- [Keyboard Typing](https://viewtube.io/watch?v=l4XclA2-FKg)
 
 ### Hypnosis
-- [A Visual Hypnosis Example](https://www.viewtube.io/watch?v=it5WX2gxXP4): Just stare at the colorful pattern while the minimal music and gentle suggestions help you relax.
-- [Sleep Hypnosis](https://www.viewtube.io/watch?v=5_WLGc5K3d0) Technically nothing to see here but to listen
+- [A Visual Hypnosis Example](https://viewtube.io/watch?v=it5WX2gxXP4): Just stare at the colorful pattern while the minimal music and gentle suggestions help you relax.
+- [Sleep Hypnosis](https://viewtube.io/watch?v=5_WLGc5K3d0) Technically nothing to see here but to listen
 
 ### Stories
 
 - [Pzziz](https://pzizz.com) is an excellent app of sleep stories, soft sounds and is set up for a full night’s sleep or if you just want to take a nap! See also their spinoff apps:
   - [Doze](https://dozeapp.com/) A spinoff of Pzziz with a different UI.
   - [Mesmerize](https://www.mesmerizeapp.com/) Another highly recommended app, it has many pre-sets so you can relax faster with less thinking. The visualizations are engaging and the hypnotism is very effective.
-- [Loona](https://loona.app) is an excellent app that has special interactive sleep stories where you color in a scene while the story unfolds! They also have regular bedtime stories and music to enjoy as well. Also available on [YouTube](https://www.viewtube.io/channel/UCvOwxjPkjT8TdGrEP3IsxzA).
+- [Loona](https://loona.app) is an excellent app that has special interactive sleep stories where you color in a scene while the story unfolds! They also have regular bedtime stories and music to enjoy as well. Also available on [YouTube](https://viewtube.io/channel/UCvOwxjPkjT8TdGrEP3IsxzA).
 - Similar to Bettersleep, [Slumber](https://slumber.fm) has a huge library of bedtime stories and several relaxing sounds you can customize to help you drift to sleep.
 
 ### Podcasts
@@ -70,34 +70,34 @@ There are a variety of youtube channels which I've broken down into different ca
 (Note: These links all use [viewtube](https://github.com/viewtube/viewtube), to allow you a quieter experience without additional distractions. Should these links not work, please replace viewtube.io with youtube.com to see the video from the source)
 
 #### Restoration Videos
-- [Odd Tinkering](https://www.viewtube.io/@OddTinkering): Electronics restoration with no sponsors or commentary. Just the sounds of repairwork.
-- [Old Things Never Die](https://www.viewtube.io/@OldThingsNeverDie-): Another silent restoration channel. No nonsense, just the magic of watching something old become new again.
-- [TysyTube](https://www.viewtube.io/@TysyTube): Restores various items, a good sense of humor in the text only commentary.
-- [MountainRugCleaning](https://www.viewtube.io/@MountainRugCleaning): No commentary, just the sounds of carpets being scrubbed. Satisfying seeing something being cleaned.
-- [Rescue Restore](https://www.viewtube.io/@RescueRestore)
+- [Odd Tinkering](https://viewtube.io/@OddTinkering): Electronics restoration with no sponsors or commentary. Just the sounds of repairwork.
+- [Old Things Never Die](https://viewtube.io/@OldThingsNeverDie-): Another silent restoration channel. No nonsense, just the magic of watching something old become new again.
+- [TysyTube](https://viewtube.io/@TysyTube): Restores various items, a good sense of humor in the text only commentary.
+- [MountainRugCleaning](https://viewtube.io/@MountainRugCleaning): No commentary, just the sounds of carpets being scrubbed. Satisfying seeing something being cleaned.
+- [Rescue Restore](https://viewtube.io/@RescueRestore)
 
 #### Craftmaking
-- [PearFleur](https://www.viewtube.io/@PearFleur)
-  - [Making Paint: BLUE IRIS](https://www.viewtube.io/watch?v=aCKtkvFvXa8)
-  - [Clay Crafting:](https://www.viewtube.io/watch?v=5CZMI__cL_A)
-- [bitter melon bindery](https://www.viewtube.io/@bittermelonbindery)
+- [PearFleur](https://viewtube.io/@PearFleur)
+  - [Making Paint: BLUE IRIS](https://viewtube.io/watch?v=aCKtkvFvXa8)
+  - [Clay Crafting:](https://viewtube.io/watch?v=5CZMI__cL_A)
+- [bitter melon bindery](https://viewtube.io/@bittermelonbindery)
   - [Making journals for a peaceful mind ✦ ASMR bookbinding process](https://viewtube.io/watch?v=f8lwRyhKaBM?si=mOnOcTOmube07tNJ)
-- [Tellervo: making soap 1hr compilation](https://www.viewtube.io/watch?v=qOly3ET6HkU)
-- [Violin Making](https://www.viewtube.io/watch?v=YO5KMZfyKBc)
-- [Diamond Paintings](https://www.viewtube.io/watch?v=obUK-udjGRw)
-- [Glass Pen & Sparkling Ink](https://www.viewtube.io/watch?v=UTRweceb6b0)
-- [Beach Acrylic Painting](https://www.viewtube.io/watch?v=RuSc44URAQ4)
+- [Tellervo: making soap 1hr compilation](https://viewtube.io/watch?v=qOly3ET6HkU)
+- [Violin Making](https://viewtube.io/watch?v=YO5KMZfyKBc)
+- [Diamond Paintings](https://viewtube.io/watch?v=obUK-udjGRw)
+- [Glass Pen & Sparkling Ink](https://viewtube.io/watch?v=UTRweceb6b0)
+- [Beach Acrylic Painting](https://viewtube.io/watch?v=RuSc44URAQ4)
 
 #### Cooking
-- [Julia & Jacques Cooking at Home](https://www.viewtube.io/playlist?list=PLCfyaSfs-7cwR_pwMUqdrDN6xtgPxKlAa): The adorable teasing between these two wholesome cooks creates a homey atmosphere to watch some delicious food prepared by professionals!
-- [Emerald marine Chocolate mint tart](https://www.viewtube.io/watch?v=TXXjeIF7M7I)
+- [Julia & Jacques Cooking at Home](https://viewtube.io/playlist?list=PLCfyaSfs-7cwR_pwMUqdrDN6xtgPxKlAa): The adorable teasing between these two wholesome cooks creates a homey atmosphere to watch some delicious food prepared by professionals!
+- [Emerald marine Chocolate mint tart](https://viewtube.io/watch?v=TXXjeIF7M7I)
 - [Cozy Winter Afternoon](https://viewtube.io/watch?v=qau58jh92vc) Gentle Narration in an old fashioned kitchen making tasty treats on a cold winter day. Couldn't get more cozy!
-- [Night Sky Jelly](https://www.viewtube.io/watch?v=YHwzPIJh5FM)
+- [Night Sky Jelly](https://viewtube.io/watch?v=YHwzPIJh5FM)
 
 #### Misc
 - [Quiet Nerd](https://viewtube.io/watch?v=Dxl2gpsiRws?si=-gBeqZ7pR2CCFN1w) A fusion of nerd and nature, watch a vlog of a calming day out in the woods with an amazing hand build electric powered camper!
 
-As many times as I've mentioned Bob Ross there is new content in his style on the [Bob Ross Youtube Channel](https://www.viewtube.io/@bobross_thejoyofpainting) that are worth watching. 
+As many times as I've mentioned Bob Ross there is new content in his style on the [Bob Ross Youtube Channel](https://viewtube.io/@bobross_thejoyofpainting) that are worth watching. 
 
 ## Do
 
