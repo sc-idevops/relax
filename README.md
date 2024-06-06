@@ -86,6 +86,7 @@ There are a variety of youtube channels which I've broken down into different ca
 - [Violin Making](https://www.viewtube.io/watch?v=YO5KMZfyKBc)
 - [Diamond Paintings](https://www.viewtube.io/watch?v=obUK-udjGRw)
 - [Glass Pen & Sparkling Ink](https://www.viewtube.io/watch?v=UTRweceb6b0)
+- [Beach Acrylic Painting](https://www.viewtube.io/watch?v=RuSc44URAQ4)
 
 #### Cooking
 - [Julia & Jacques Cooking at Home](https://www.viewtube.io/playlist?list=PLCfyaSfs-7cwR_pwMUqdrDN6xtgPxKlAa): The adorable teasing between these two wholesome cooks creates a homey atmosphere to watch some delicious food prepared by professionals!
