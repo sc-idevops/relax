@@ -12,7 +12,7 @@ In these trying times, it's helpful to have things to fall back on to help you c
 
 ### Yoga Nidra
 The Yoga of sleep takes you through several practices to take you on a voyage through yourself to help you relax and fall asleep at night
-- [Yoga Nidra for Beginners](https://www.youtube.com/watch?v=zjm-LqavvZo)
+- [Yoga Nidra for Beginners](https://viewtube.io/watch?v=zjm-LqavvZo)
 
 ## Listen
 
@@ -87,6 +87,7 @@ There are a variety of youtube channels which I've broken down into different ca
 - [Diamond Paintings](https://viewtube.io/watch?v=obUK-udjGRw)
 - [Glass Pen & Sparkling Ink](https://viewtube.io/watch?v=UTRweceb6b0)
 - [Beach Acrylic Painting](https://viewtube.io/watch?v=RuSc44URAQ4)
+- [Studio Ghibli Landscape Painting](https://viewtube.io/watch?v=m86qxpbUP5M)
 
 #### Cooking
 - [Julia & Jacques Cooking at Home](https://viewtube.io/playlist?list=PLCfyaSfs-7cwR_pwMUqdrDN6xtgPxKlAa): The adorable teasing between these two wholesome cooks creates a homey atmosphere to watch some delicious food prepared by professionals!
