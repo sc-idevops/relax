@@ -106,3 +106,19 @@ As many times as I've mentioned Bob Ross there is new content in his style on th
 - Coloring something either digitally or on paper can be very diverting and make you feel like a kid again <3
 - Talking with friends and loved ones can help you express what’s on your mind and together you can try to solve what’s bothering you.
 - A warm bath or a shower can be relaxing. Consider adding scented candles or bath salts enhance the effect!
+
+## Play
+Sometimes playing a game can be delightfully diverting! There are many options out there for different platforms.
+
+### Android
+
+- [Forest Island](https://play.google.com/store/apps/details?id=com.Nanali.ForestIsland): Restore nature to harmony and populate an island with animal friends
+- [Anti-Stress](https://play.google.com/store/apps/details?id=com.JindoBlu.Antistress): A bunch of little widgets and mini-games to take your mind off things anywhere anytime.
+- [myOasis](https://play.google.com/store/apps/details?id=com.buffstudio.myoasis): A cute simulation of an island
+- [Puzzlerama](https://play.google.com/store/apps/details?id=com.leodesol.games.puzzlecollection): a bunch of puzzle games combined into one.
+- [Zen Color By Number](https://play.google.com/store/apps/details?id=happy.paint.coloring.color.number): coloring is child-like and relaxing.
+- [Flutter Starlight](https://play.google.com/store/apps/details?id=com.runawayplay.starlight)
+- [Dream Hopper](https://play.google.com/store/apps/details?id=com.protostar.hopper): A rhythm game with swirling colors
+- [Flappy Dragon](https://play.google.com/store/apps/details?id=com.coreventura.flappydragon): a timing game, navigate your dragon through the levels
+
+### PC/Steam
