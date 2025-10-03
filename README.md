@@ -67,7 +67,6 @@ Twitch has several streams I find relaxing to watch.
 
 ### Youtube 
 There are a variety of youtube channels which I've broken down into different categories to watch. There's something slightly mesmerizing and relaxing about watching craftsmen put so much into their creations.
-(Note: These links all use [viewtube](https://github.com/viewtube/viewtube), to allow you a quieter experience without additional distractions. Should these links not work, please replace youtube.com with youtube.com to see the video from the source)
 
 #### Restoration Videos
 - [Odd Tinkering](https://youtube.com/@OddTinkering): Electronics restoration with no sponsors or commentary. Just the sounds of repairwork.
