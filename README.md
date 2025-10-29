@@ -92,10 +92,10 @@ There are a variety of youtube channels which I've broken down into different ca
 - [Cozy Winter Afternoon](https://youtube.com/watch?v=qau58jh92vc) Gentle Narration in an old fashioned kitchen making tasty treats on a cold winter day. Couldn't get more cozy!
 - [Night Sky Jelly](https://youtube.com/watch?v=YHwzPIJh5FM)
 
-#### Gardening 
+#### Misc 
 - Gardener's World is an incredibly soothing and relaxing program from the BBC that's been running for about as long as Doctor Who. You can find free episodes on [youtube](https://www.youtube.com/@GardeningWithMontyDon)
-
-Also as many times as I've mentioned Bob Ross there is new content in his style on the [Bob Ross Youtube Channel](https://youtube.com/@bobross_thejoyofpainting) that are worth watching. 
+ - Dog and Cat Grooming with the [ Girl with the Dogs youtube channel ](https://www.youtube.com/@GirlWithTheDogs) and her [long form channel ](https://www.youtube.com/@girlwiththedogs2)
+- Also as many times as I've mentioned Bob Ross there is new content in his style on the [Bob Ross Youtube Channel](https://youtube.com/@bobross_thejoyofpainting) that are worth watching. 
 
 ## Do
 
@@ -108,3 +108,4 @@ Also as many times as I've mentioned Bob Ross there is new content in his style 
 - Coloring something either digitally or on paper can be very diverting and make you feel like a kid again <3
 - Talking with friends and loved ones can help you express what’s on your mind and together you can try to solve what’s bothering you.
 - A warm bath or a shower can be relaxing. Consider adding scented candles or bath salts enhance the effect!
+- Stretching or a short walk can also help clear your mind! 
